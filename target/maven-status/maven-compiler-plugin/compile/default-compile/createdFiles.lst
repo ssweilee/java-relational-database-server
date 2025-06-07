@@ -1,0 +1,15 @@
+edu/uob/HandleAlter.class
+edu/uob/DBClient.class
+edu/uob/HandleInsert.class
+edu/uob/HandleJoin.class
+edu/uob/HandleCreate.class
+edu/uob/HandleSelect.class
+edu/uob/HandleTokens.class
+edu/uob/FileManage.class
+edu/uob/IsConditionValid$IsSimpleComparator.class
+edu/uob/DBServer.class
+edu/uob/HandleDelete.class
+edu/uob/HandleUse.class
+edu/uob/HandleUpdate.class
+edu/uob/HandleDrop.class
+edu/uob/IsConditionValid.class
