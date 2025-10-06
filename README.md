@@ -1,5 +1,3 @@
-# 🗄️ Java Relational Database Server
-
 A simplified **relational database server implemented in Java**.  
 This project showcases my ability to design and implement core database functionality from scratch, including query parsing, persistent storage, and data relationship management.
 
